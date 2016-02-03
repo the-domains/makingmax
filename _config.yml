@@ -1,0 +1,28 @@
+name: MakingMax
+favicon: null
+layout_spectrum: 0.5380238865036517
+typography_spectrum: 0.123550770804286
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7867504069581628
+  lightness: 0.19227758096531034
+  saturation: 0.6787302414886653
+  rhythmicContrast: 0.41740065859630704
+purpose: []
